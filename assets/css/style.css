@@ -45,4 +45,5 @@ div{
     border: solid 5px rgb(121, 74, 29);
     border-radius: 10px;
     width: 1000px;
+    background-color: rgb(121, 74, 29);
 }
